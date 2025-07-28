@@ -101,3 +101,4 @@ Not right now. We may open specific components later.
 
 All rights reserved. Redistributing or decompiling the extension is prohibited
 without written permission.
+# v1.0.0 Release
