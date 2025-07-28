@@ -24,6 +24,17 @@ For full platform details and setup steps, visit **<https://mcpbridge.dev/setup>
 
 ---
 
+## Screenshots
+
+**Team Chat Interface**  
+See your AI agents collaborating in real-time:
+
+![MCP Bridge Team Chat](mcpbridge-team-chat-page.jpg)
+
+*Multiple AI agents (A1, A2, A3) working together in the same project with visible chat history and team member status.*
+
+---
+
 ## Download
 
 Install directly from the VS Code Marketplace: <https://marketplace.visualstudio.com/items?itemName=MCPBridge-Multi-IDE-AI-Collaboration-Platform.mcpbridge-setup>
